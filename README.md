@@ -27,7 +27,7 @@ Other languages I do like are **CSS , JavaScript and SCSS**.
 
 
 ## 3. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Piyush-Meena)
+![Profile View Counter](https://komarev.com/ghpvc/?username=DeepaDidharia)
 
 
 
